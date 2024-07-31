@@ -2,7 +2,7 @@
 name = "comfyui-tcd"
 description = "TCD sampler plugin for ComfyUI"
 version = "0.1.0"
-license = "GPL-3.0"
+license = { file = "LICENSE" }
 
 [project.urls]
 Repository = "https://github.com/JettHu/ComfyUI-TCD"
